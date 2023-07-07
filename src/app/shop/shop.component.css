@@ -1,0 +1,10 @@
+.product{
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: lightgrey;
+    border: 2px solid grey;
+}
+
+img {
+    height: 150px;
+}
